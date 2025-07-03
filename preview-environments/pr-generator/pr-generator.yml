@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: ApplicationSet
 metadata:
-  name: my-preview-apps
+  name: my-preview-apps-2
   namespace: argocd  
 spec:
   goTemplate: true
