@@ -11,6 +11,8 @@ spec:
       github:
         owner: nadav226
         repo: gitops-cert-level-3-examples
+        labels:
+        - preview
       requeueAfterSeconds: 180
   template:
     metadata:
